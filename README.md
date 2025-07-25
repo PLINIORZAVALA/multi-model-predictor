@@ -86,4 +86,3 @@ Max Plinior Zavala Ayvar
 Feel free to adapt this template further based on your deployment setup or additional features you may add.
 
 ```
-```
