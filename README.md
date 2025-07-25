@@ -80,9 +80,3 @@ This API can be containerized with Docker or deployed to platforms such as AWS L
 
 Max Plinior Zavala Ayvar
 *AI Engineer | Data Scientist*
-
----
-
-Feel free to adapt this template further based on your deployment setup or additional features you may add.
-
-```
